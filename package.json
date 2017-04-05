@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-gen",
+  "version": "1.0.0",
+  "description": "A flashcard generator (basic and cloze cards) using node command line",
+  "main": "flashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikelearning91/Flashcard-Gen.git"
+  },
+  "author": "Michael Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikelearning91/Flashcard-Gen/issues"
+  },
+  "homepage": "https://github.com/mikelearning91/Flashcard-Gen#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6"
+  }
+}
